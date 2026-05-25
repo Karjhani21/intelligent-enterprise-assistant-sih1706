@@ -245,22 +245,13 @@ The chatbot supports:
 # 📷 Output Screenshots
 
 ## 🖥️ Chatbot Home Page
-![Chatbot Home](screenshots/chatbot-home.png)
+<img width="1800" height="847" alt="Screenshot 2026-05-20 114557" src="https://github.com/user-attachments/assets/81201fe0-1063-49b6-a42d-4dc4d4576ad3" />
+
+<img width="1877" height="673" alt="image" src="https://github.com/user-attachments/assets/00ce33f3-06c2-4573-9886-2c02343de3c7" />
 
 ---
 
-## 📄 Document Upload & Summary
-![Document Upload](screenshots/document-upload.png)
 
----
-
-## 📚 FastAPI Swagger Documentation
-![API Docs](screenshots/api-docs.png)
-
----
-
-## 🔐 OTP Authentication
-![OTP Authentication](screenshots/otp-auth.png)
 
 ---
 
@@ -298,8 +289,5 @@ The chatbot supports:
 
 The Intelligent Enterprise Assistant improves organizational efficiency by providing employees with instant access to HR, IT, and organizational information using AI-powered conversational interfaces and document processing capabilities.
 
-### Output
-
-<img width="1877" height="673" alt="image" src="https://github.com/user-attachments/assets/00ce33f3-06c2-4573-9886-2c02343de3c7" />
 
 
