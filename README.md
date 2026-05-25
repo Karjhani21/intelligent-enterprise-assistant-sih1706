@@ -38,7 +38,7 @@ enterprise-assistant/
 cd backend
 pip install -r requirements.txt
 python -m uvicorn app.main:app --reload
-'''
+```
 ### Output
 
 <img width="1877" height="673" alt="image" src="https://github.com/user-attachments/assets/00ce33f3-06c2-4573-9886-2c02343de3c7" />
