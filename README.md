@@ -285,34 +285,6 @@ The chatbot supports:
 ✅ Scalable architecture  
 ✅ Fast response time  
 
----
-
-# 👨‍💻 Team Information
-
-### Team Name:
-Smart Enterprise Innovators
-
-### Hackathon:
-Smart India Hackathon (SIH)
-
----
-
-# 🌐 GitHub Repository
-
-Repository Link:
-
-```text
-https://github.com/Karjhani21/intelligent-enterprise-assistant-sih1706
-```
-
----
-
-# 📜 License
-
-This project is developed for educational and hackathon purposes.
-
----
-
 # 🙏 Acknowledgements
 
 - Smart India Hackathon
